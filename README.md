@@ -1,1 +1,0 @@
-# fcc-phone-validator
